@@ -197,4 +197,17 @@ h4{
     left: 430px;
 }
 .features__btn2{
+    position: absolute;
+    top: 280px;
+    right: 150px;
+}
+.features__btn3{
+    position: absolute;
+    top: 790px;
+    left: 430px;
+}
+.features__btn4{
+    position: absolute;
+    top: 790px;
+    right: 140px;
 }
